@@ -1,0 +1,19 @@
+Analysis initiated from SIMULIA established products
+Abaqus JOB BEAM-bending
+Abaqus Learning Edition 2022
+Begin Analysis Input File Processor
+5/2/2023 11:25:58 AM
+Run pre.exe
+5/2/2023 11:26:00 AM
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+5/2/2023 11:26:00 AM
+Run standard.exe
+5/2/2023 11:26:02 AM
+End Abaqus/Standard Analysis
+Begin SIM Wrap-up
+5/2/2023 11:26:02 AM
+Run SMASimUtility.exe
+5/2/2023 11:26:03 AM
+End SIM Wrap-up
+Abaqus JOB BEAM-bending COMPLETED
